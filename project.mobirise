@@ -25,7 +25,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicons-16x13-75-128x104-71.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 36
+    "uniqCompNum": 36,
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
