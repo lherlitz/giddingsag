@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "connectionstour.html",
     "versionFirst": "3.6.1",
     "versionPublish": "3.10.4",
     "name": "Giddings AG New",
@@ -943,7 +943,7 @@
       },
       "components": []
     },
-    "connectiontour.html": {
+    "connectionstour.html": {
       "settings": {
         "header_custom": " <meta http-equiv=\"refresh\" content=\"1; url= https://giddingsag.churchcenteronline.com/registrations/events/51706\">\n        <script type=\"text/javascript\">\n            window.location.href = \"https://giddingsag.churchcenteronline.com/registrations/events/51706\"\n        </script>",
         "footer_custom": "If you are not redirected automatically, follow this <a href='https://giddingsag.churchcenteronline.com/registrations/events/51706'>link to example</a>."
