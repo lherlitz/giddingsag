@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "connectionstour.html",
+    "currentPage": "media.html",
     "versionFirst": "3.6.1",
     "versionPublish": "3.10.4",
     "name": "Giddings AG New",
@@ -25,7 +25,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicons-16x13-75-128x104-71.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 39,
+    "uniqCompNum": 42,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -909,17 +909,42 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/groups\" target=\"_blank\">GROUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/giving\" target=\"_blank\">ONLINE GIVING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/registrations\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"media.html\">MEDIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"devotions.html\">DAILY DEVOTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jesus.html\">NEED JESUS?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-14",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        },
+        {
           "alias": "htmlblock",
           "_tags": [
             "Extension"
           ],
           "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-z",
+          "_anchor": "htmlblock-block-15",
           "_params": {
-            "blockTitle": "Sermons",
-            "HTMLCode": "<iframe id=\"sermondrop_details_widget\" src=\"http://giddingsag.sermondrop.com/sermons.widget?s=large\" scrolling=\"no\" allowtransparency=\"true\"  marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" vspace=\"0\" hspace=\"0\" style=\"overflow:visible;\" height=\"600\" width=\"100%\"></iframe>",
+            "blockTitle": "March 12, 2017",
+            "HTMLCode": "<iframe id=\"ls_embed_1489351865\" src=\"https://livestream.com/accounts/798969/events/7107777/player?width=960&height=540&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false\" width=\"960\" height=\"540\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
             "ExtEdit": false,
-            "paddingTop": "40",
+            "paddingTop": 20,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -929,9 +954,9 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
-          "blockTitle": "Sermons",
-          "HTMLCode": "<iframe id=\"sermondrop_details_widget\" src=\"http://giddingsag.sermondrop.com/sermons.widget?s=large\" scrolling=\"no\" allowtransparency=\"true\"  marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" vspace=\"0\" hspace=\"0\" style=\"overflow:visible;\" height=\"600\" width=\"100%\"></iframe>",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "March 12, 2017",
+          "HTMLCode": "<iframe id=\"ls_embed_1489351865\" src=\"https://livestream.com/accounts/798969/events/7107777/player?width=960&height=540&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false\" width=\"960\" height=\"540\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
           "tinyeditor": ""
         }
       ]
