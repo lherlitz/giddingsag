@@ -916,7 +916,7 @@
           "_anchor": "social-buttons1-14",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -944,7 +944,7 @@
             "blockTitle": "March 12, 2017",
             "HTMLCode": "<iframe id=\"ls_embed_1489351865\" src=\"https://livestream.com/accounts/798969/events/7107777/player?width=960&height=540&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false\" width=\"960\" height=\"540\" frameborder=\"0\" scrolling=\"no\" allowfullscreen> </iframe>",
             "ExtEdit": false,
-            "paddingTop": 20,
+            "paddingTop": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
