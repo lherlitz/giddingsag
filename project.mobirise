@@ -993,9 +993,10 @@
     },
     "ourapp.html": {
       "settings": {
-        "meta_descr": "Church Center app is the fastest way to get information about your church, register for events, and give to your church on iOS. Use your credit card, setup a bank account, or use Apple Pay to give quickly to your church.",
+        "meta_descr": "Church Center app is the fastest way to get information about our church, learn about upcoming events, and donate.",
         "title": "Our Mobile App",
-        "order": 1
+        "order": 1,
+        "header_custom": ""
       },
       "components": [
         {
