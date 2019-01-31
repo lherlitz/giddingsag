@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "ourapp.html",
+    "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "versionPublish": "4.8.7",
+    "versionPublish": "4.8.10",
     "name": "Giddings AG New",
     "theme": {
       "name": "mobirise3",
@@ -361,7 +361,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://vimeo.com/158101975",
+              "src": "https://www.youtube.com/watch?v=vUyglypigSQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
