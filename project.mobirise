@@ -454,7 +454,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/video-1400x979.png",
-              "link": "https://livestream.com/giddingsag",
+              "link": "https://vimeo.com/giddingsag",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -473,7 +473,7 @@
           },
           "title": "View our Sermon Libray",
           "text": "We stream our messages live each week and they are available on-demand.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/pg/GiddingsAG/videos/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO LIBRARY</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://vimeo.com/giddingsag\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO LIBRARY</a>"
         },
         {
           "_name": "contacts2",
