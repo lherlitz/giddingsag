@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "versionPublish": "4.9.1",
+    "versionPublish": "4.9.3",
     "name": "Giddings AG New",
     "theme": {
       "name": "mobirise3",
@@ -28,13 +28,14 @@
         "#a0a0a0",
         "#222222",
         "#463707",
-        "#282828"
+        "#282828",
+        "#b96311"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/favicons-16x13-75-128x104-71.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 93,
+    "uniqCompNum": 97,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -103,61 +104,29 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "inverse": false,
-            "imageSize": 60,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "blockTitle": "CURRENT SERMON SERIES",
+            "HTMLCode": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://vimeo.com/album/5788733/embed\" allowfullscreen frameborder=\"0\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div>",
+            "ExtEdit": false,
+            "paddingTop": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beautiful-feet-beautiful-feet-16x9-1920x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgText": "Laugh Your Way to a Better Marriage",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#efefef",
-            "bgTextSize": 250,
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
+            "bgColorRadio": false,
+            "bgColor": "#b96311",
             "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.9"
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/c6bc68cfd95739873b4d8276595907f0-1-720x405.jpg",
-              "link": "http://laugh.giddingsag.org",
-              "alt": "laugh your way logo",
-              "title": "Laugh Your Way",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "SPECIAL EVENT",
-          "text": "Laugh Your Way to a Better Marriage® is not your typical middle-of-the-week church activity, thanks to Mark Gungor's hilariously practical and no-holds-barred advice. Mark has been doing this seminal in a live weekend format all over the country. Now available as a video series to be used in a smaller venue like First Assembly in Giddings. Over six Wednesday nights, we will experience all the facts and side-splitting fun of Mark's look at life, love, and marriage.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://giddingsag.churchcenter.com/groups/wednesday-night-classes/laugh-your-way-to-a-better-marriage\" target=\"_blank\">REGISTER</a>",
-          "bgTextP": "ANIMATED TEXT BACKGROUND",
-          "alias": "mobirise3-blocks/components",
+          "blockTitle": "CURRENT SERMON SERIES",
+          "HTMLCode": "<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://vimeo.com/album/5788733/embed\" allowfullscreen frameborder=\"0\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\"></iframe></div>",
+          "tinyeditor": "",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader12",
-          "_anchor": "extHeader12-1t"
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-2o"
         },
         {
           "_styles": {
