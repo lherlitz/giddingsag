@@ -7,9 +7,8 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/favicons-16x13-75-128x104-71.png" type="image/x-icon">
-  <meta name="description" content="Church Center app is the fastest way to get information about our church, learn about upcoming events, and donate.">
-  <title>Our Mobile App</title>
-  <link rel="stylesheet" href="assets/icon54/style.css">
+  <meta name="description" content="">
+  <title>Dinner Donation</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin">
@@ -21,10 +20,10 @@
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
   
   
-  
+  <script src="https://js.churchcenter.com/modal/v1"></script>
 </head>
 <body>
-  <section id="ext_menu-2i" data-rv-view="92">
+  <section id="ext_menu-0" data-rv-view="72">
 
     <nav class="navbar navbar-dropdown navbar-fixed-top">
         <div class="container">
@@ -57,42 +56,43 @@
 
 </section>
 
-<div id="msg-box5-2j" class="mbr-after-navbar"><section class="mbr-section mbr-after-navbar" data-rv-view="38" style="background-color: rgb(255, 255, 255); padding-top: 160px; padding-bottom: 120px;">
+<div id="custom-html-2p"><!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3"></script>
 
-    
-    <div class="container">
-        <div class="row">
-            <div class="mbr-table-md-up">
+<!-- Create a button that your customers click to complete their purchase. -->
+<button id="checkout-button" role="link">Pay</button>
+<div id="error-message"></div>
 
-              
+<script>
+  var stripe = Stripe('pk_live_36ZPQzQtvEkTitMX27EmmyU1', {
+    betas: ['checkout_beta_4']
+  });
 
-              <div class="mbr-table-cell col-md-5 text-xs-center text-md-right content-size">
-                  <h3 class="mbr-section-title display-2 mbr-editable-content">DOWNLOAD OUR APP</h3>
-                  <div class="lead">
+  var checkoutButton = document.getElementById('checkout-button');
+  checkoutButton.addEventListener('click', function () {
+    // When the customer clicks on the button, redirect
+    // them to Checkout.
+    stripe.redirectToCheckout({
+      items: [{sku: 'sku_EjfPb8hbg7un62', quantity: 1}],
 
-                    <p class="mbr-editable-content">Church Center app is the fastest way to get information about our church, learn about upcoming events, and give to our church.</p>
+      // Note that it is not guaranteed your customers will be redirected to this
+      // URL *100%* of the time, it's possible that they could e.g. close the
+      // tab between form submission and the redirect.
+      successUrl: window.location.protocol + '//giddingsag.org/success',
+      cancelUrl: window.location.protocol + '//giddingsag.org/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        // If `redirectToCheckout` fails due to a browser or network
+        // error, display the localized error message to your customer.
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+</script></div>
 
-                  </div>
-
-                  <div><a class="btn btn-danger mbr-editable-button" href="https://itunes.apple.com/us/app/my-church-center/id1357742931?mt=8" target="_blank" width="255"><span class="icon54-v1-apple2 mbr-iconfont mbr-iconfont-btn"></span>&nbsp;Download on App Store&nbsp;</a>
-                      <p><a class="btn btn-info mbr-editable-button" href="https://play.google.com/store/apps/details?id=com.ministrycentered.churchcenter" target="_blank" width="255"><span class="icon54-v1-google-play mbr-iconfont mbr-iconfont-btn"></span>Download on Google Play</a></p></div>
-              </div>
-
-
-              
-
-
-              <div class="mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size" style="width: 50%;">
-                  <div class="mbr-figure"><img src="assets/images/square-859x859.png"></div>
-              </div>
-
-            </div>
-        </div>
-    </div>
-
-</section></div>
-
-<div id="contacts2-2g"><section class="mbr-section mbr-section-md-padding mbr-footer footer2" style="background-color: rgb(184, 49, 47); padding-top: 90px; padding-bottom: 90px;">
+<div id="contacts2-0"><section class="mbr-section mbr-section-md-padding mbr-footer footer2" style="background-color: rgb(184, 49, 47); padding-top: 90px; padding-bottom: 90px;">
     
     <div class="container">
         <div class="row">
@@ -115,7 +115,7 @@ Phone: (979) 542-2904</p>
     </div>
 </section></div>
 
-<div id="footer1-2h"><footer class="mbr-small-footer mbr-section mbr-section-nopadding" data-rv-view="41" style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
+<div id="footer1-0"><footer class="mbr-small-footer mbr-section mbr-section-nopadding" data-rv-view="41" style="background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;">
     
     <div class="container text-xs-center">
         <p class="mbr-editable-content">© 2018 Giddings First Assembly of God</p>        
@@ -126,13 +126,13 @@ Phone: (979) 542-2904</p>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
   <script src="assets/tether/tether.min.js"></script>
   <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/smooth-scroll/smooth-scroll.js"></script>
   <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
   <script src="assets/dropdown/js/script.min.js"></script>
-  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
   <script src="assets/theme/js/script.js"></script>
   
-  
+   <script> window.fbMessengerPlugins = window.fbMessengerPlugins || { init : function() { FB.init({ appId: "1678638095724206", xfbml: true, version: "v2.6" }); }, callable : [] }; window.fbAsyncInit = window.fbAsyncInit || function() { window.fbMessengerPlugins.callable.forEach( function( item ) { item(); } ); window.fbMessengerPlugins.init(); }; setTimeout( function() { (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return; } js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); }, 0); </script> 
  <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
     <input name="animation" type="hidden">
   </body>
