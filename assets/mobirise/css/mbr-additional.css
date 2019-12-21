@@ -464,18 +464,6 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
-#custom-html-2y {
-  /* Type valid CSS here */
-}
-#custom-html-2y div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-2y p {
-  font-size: 60px;
-  color: #777;
-}
 #header3-0 .mbr-section-title,
 #header3-0 .mbr-section-subtitle {
   text-align: center;
