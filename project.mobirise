@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dinner.html",
+    "currentPage": "shop.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.11.6",
     "name": "Giddings AG New",
@@ -1457,9 +1457,9 @@
         }
       ]
     },
-    "dinner.html": {
+    "shop.html": {
       "settings": {
-        "title": "Dinner Donation",
+        "title": "Shop",
         "meta_descr": "",
         "header_custom": "<script src=\"https://js.churchcenter.com/modal/v1\"></script>",
         "footer_custom": " <script> window.fbMessengerPlugins = window.fbMessengerPlugins || { init : function() { FB.init({ appId: \"1678638095724206\", xfbml: true, version: \"v2.6\" }); }, callable : [] }; window.fbAsyncInit = window.fbAsyncInit || function() { window.fbMessengerPlugins.callable.forEach( function( item ) { item(); } ); window.fbMessengerPlugins.init(); }; setTimeout( function() { (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return; } js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/en_US/sdk.js\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); }, 0); </script> ",
