@@ -40,7 +40,9 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsSwitcher": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/lucasherlitz/Documents/GitHub/giddingsag"
   },
   "pages": {
     "index.html": {
