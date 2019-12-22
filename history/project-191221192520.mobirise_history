@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "shop.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.11.6",
     "name": "Giddings AG New",
@@ -35,7 +35,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicons-16x13-75-128x104-71.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 113,
+    "uniqCompNum": 111,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -103,19 +103,6 @@
           "title": "First Assembly of God",
           "text": "Loving God… Loving People",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"shop.html\" data-toolbar=\"-mbrBtnMove\">ORDER A SHIRT</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-34"
         },
         {
           "_styles": {
