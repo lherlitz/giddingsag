@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "shop.html",
     "versionFirst": "3.6.1",
     "versionPublish": "4.11.6",
     "name": "Giddings AG New",
@@ -35,7 +35,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicons-16x13-75-128x104-71.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 108,
+    "uniqCompNum": 110,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -1154,6 +1154,19 @@
         "order": 4
       },
       "components": [
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-31"
+        },
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
