@@ -40,7 +40,9 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsSwitcher": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/lucasherlitz/Documents/GitHub/giddingsag"
   },
   "pages": {
     "index.html": {
@@ -108,7 +110,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"shop.html\" data-toolbar=\"-mbrBtnMove\">VISIT OUR SHOP</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"shop.html\" data-toolbar=\"-mbrBtnMove\">ORDER A SHIRT</a> ",
           "_tags": [
             "Theme"
           ],
