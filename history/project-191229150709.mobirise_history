@@ -40,7 +40,9 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": ""
+    "robotsSwitcher": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/lucasherlitz/Documents/GitHub/giddingsag"
   },
   "pages": {
     "index.html": {
@@ -238,7 +240,7 @@
             }
           },
           "title": "Summer Service Times",
-          "text": "<b>Sunday Morning Worship</b> - 10:30am<br><br><b>Wednesday Night Classes</b> &nbsp;- 7:00pm (programs for children &amp; adults)<br><br><b>Friday Night Celebrate Recovery</b> - 7:00pm<br>",
+          "text": "<b>Sunday Morning Worship</b> - 10:30am<br><br><b>Friday Night Celebrate Recovery</b> - 7:00pm<br><br>We are currently on sabbatical for our Wednesday night classes. We will resume our Men, Women, Youth and children mid-week events on Wednesday, August 14th.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1186,7 +1188,7 @@
             "paddingBottom": "3",
             "bgColor": "#fff"
           },
-          "text1": "<p>Loading…</p>",
+          "text1": "<p>This will be removed</p>",
           "text2": "",
           "_tags": [
             "Theme"
