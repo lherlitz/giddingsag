@@ -1,0 +1,1342 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.6.1",
+    "versionPublish": "5.6.8",
+    "name": "Giddings AG New",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#b8312f",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#00a885",
+        "warningColor": "#7e9b9f",
+        "dangerColor": "#3d8eb9",
+        "titleFont": "Oswald",
+        "subtitleFont": "Lato",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#3d3d3d",
+        "#2e2e2e",
+        "#a0a0a0",
+        "#222222",
+        "#463707",
+        "#282828",
+        "#b96311"
+      ]
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favicons-16x13-75-128x104-71.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "uniqCompNum": 113,
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "<script src=\"https://js.churchcenter.com/modal/v1\"></script>",
+        "footer_custom": " <script> window.fbMessengerPlugins = window.fbMessengerPlugins || { init : function() { FB.init({ appId: \"1678638095724206\", xfbml: true, version: \"v2.6\" }); }, callable : [] }; window.fbAsyncInit = window.fbAsyncInit || function() { window.fbMessengerPlugins.callable.forEach( function( item ) { item(); } ); window.fbMessengerPlugins.init(); }; setTimeout( function() { (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return; } js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/en_US/sdk.js\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); }, 0); </script> ",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/heart-1400x1123-5-1400x1123-17.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "First Assembly of God",
+          "text": "Loving God… Loving People",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"shop.html\" data-toolbar=\"-mbrBtnMove\">VISIT OUR SHOP</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-34"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-0",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Core Values",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_name": "content2",
+          "_anchor": "content2-0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><h3>Our Mission:</h3><p>Loving God… Loving People</p></blockquote>"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "<h3>BECAUSE WE LOVE GOD, WE VALUE…</h3><p>The Authority of God’s Word; Our Personal Relationship with Jesus;</p><p><br></p><p>The Powerful, Supernatural Encounters with Him</p><p><br></p><p>The privledge of expressing our Love for Him in Worship</p><p><br></p><p><br></p><h3>BECAUSE WE LOVE PEOPLE, WE VALUE…</h3><p>Every opportunity to share the good news of Jesus everywhere [Missions/Evangelism]</p><p><br></p><p>Teaching people to obey Jesus [Discipleship]</p><p><br></p><p>Healthy Families. Everyone. [Diversity]</p>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_name": "content8",
+          "_anchor": "content8-0",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/paul-s-vision-title-3-still-16x9-1920x1080-15-2000x1125-73-2000x1125-82.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Vision",
+          "caption": "<p>To be a body of Pentecostal believers who demonstrate their personal<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">relationship with Jesus Christ, by Loving People. Our Love for people is<br>demonstrated by equipping believers through discipleship and serving our<br>community in tangible ways in obedience to the Great Commission.</span></p>"
+        },
+        {
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#232323"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/service-times-title-1-still-4x3-1440x1080-54-1400x1050-49.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Summer Service Times",
+          "text": "<b>Sunday Morning Worship</b> - 10:30am<br><br><b>Friday Night Celebrate Recovery</b> - 7:00pm<br><br>We are currently on sabbatical for our Wednesday night classes. We will resume our Men, Women, Youth and children mid-week events on Wednesday, August 14th.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img00195-2000x1062-77-2000x1062-22.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": "0.9"
+          },
+          "title": "CONTACT US",
+          "text": "<p>We'd love to hear from you!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://giddingsag.churchcenter.com/people/forms/3736?open-in-church-center-modal=true\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1r"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_name": "msg-box4",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "msg-box4-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=vUyglypigSQ",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Online Giving",
+          "text": "<p>As a church, we desire to be the vibrant, living Body of Christ in Giddings, Texas.<br><br>Every dollar that you give is used to share the Word of God with the lost and foster growth in believers. As you give, you are supporting not only the ministries of First Assembly of God, but you are also providing funding for our community outreach as well as the missionaries we support all over the globe. We are so thankful for your heart and willingness to give and we pray that as you step out in faith to give the Lord will bless you abundantly.<br> <br>To give a single gift or schedule ongoing donations, you can do it all online. It's quick, easy and secure. With our new, enhanced Planning Center Giving, you can give by using your checking account, debit or credit card, whichever is most convenient. This safe and flexible option is one of the easiest ways to give to First Assembly of God.<br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://giddingsag.churchcenter.com/giving?open-in-church-center-modal=true\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Click here to Give Online</a>"
+        },
+        {
+          "_name": "buttons1",
+          "_anchor": "buttons1-1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#3d8eb9"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://giddingsag.churchcenteronline.com/groups/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check out our Community Groups</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://giddingsag.churchcenteronline.com/registrations\" data-toolbar=\"-mbrBtnMove\">Check out Upcoming Events</a>  "
+        },
+        {
+          "_name": "video2",
+          "_anchor": "video2-0",
+          "_params": {
+            "showText": false,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/watch?v=_bWiDJSJuIA",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Extensive Video Library",
+          "text": "<p>Our church now has access to an extensive, new video library called RightNow Media! It’s like the \"Netflix of Video Bible Studies\" and has a HUGE library of faith-based videos that you can access whenever and wherever you want—on your phone, iPad, computer, or at home on your TV.</p><p>As a church staff, we’re always looking for ways to help you develop and strengthen your faith. We believe that RightNow Media will be a tool to serve you as you live out your faith at home, at work and in your neighborhood. RightNow Media has videos for everyone—kids, youth, parents, married couples, college students, single adults, working professionals—all aimed at helping you grow.</p><p><span style=\"font-size: 1.07rem;\">Click the button below to claim your free access!</span><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.rightnowmedia.org/Account/Invite/giddingsag\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLAIM YOUR FREE ACCESS!</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1f"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1d",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/video-1400x979.png",
+              "link": "https://vimeo.com/giddingsag",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "View our Sermon Libray",
+          "text": "We stream our messages live each week and they are available on-demand.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://vimeo.com/giddingsag\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO LIBRARY</a>"
+        },
+        {
+          "_name": "contacts2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "1050 N. Orange St\nGiddings, TX 78942",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>1050 N. Orange St.<br>Giddings, TX &nbsp;78942<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@giddingsag.org<br>\nPhone: (979) 542-2904",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.youtube.com/user/PastorPatSongs\" target=\"_blank\" class=\"text-white\">Pastor's YouTube Channel</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.facebook.com/First-Assembly-of-God-637600716319826/?fref=ts&amp;ref=br_tf\" target=\"_blank\" class=\"text-white\">Our Facebook Page</a></li></ul>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(184, 49, 47); padding-top: 90px; padding-bottom: 90px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"64\"><strong>Address</strong><br>1050 N. Orange St.<br>Giddings, TX &nbsp;78942<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@giddingsag.org<br>\nPhone: (979) 542-2904</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"65\"><strong>Links</strong><ul><li><a href=\"https://www.youtube.com/user/PastorPatSongs\" target=\"_blank\" class=\"text-white\">Pastor's YouTube Channel</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.facebook.com/First-Assembly-of-God-637600716319826/?fref=ts&amp;ref=br_tf\" target=\"_blank\" class=\"text-white\">Our Facebook Page</a></li><li><div class=\"fb-send-to-messenger\" messenger_app_id=\"1678638095724206\" page_id=\"637600716319826\" data-ref=\"b64:bWFpbndlYnNpdGU=\" color=\"white\" size=\"xlarge\"> </div></li></ul>\n           \n            </div>\n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\">\n                    <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.653255046473!2d-96.92964078526757!3d30.189897518642383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864465641f2641b5%3A0x434a0b38d1fec777!2s1050+N+Orange+St%2C+Giddings%2C+TX+78942!5e0!3m2!1sen!2sus!4v1473897650247\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n                \n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "contacts2-0",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2016 Giddings First Assembly of God",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"41\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container text-xs-center\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"39\">© 2019 Giddings First Assembly of God</p>        \n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/heart-1400x1123-5-159x128-78.png",
+              "height": 128,
+              "alt": "logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/people/forms/146?open-in-church-center-modal=true\" target=\"_blank\">PRAY FOR ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/groups\" target=\"_blank\">GROUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/giving?open-in-church-center-modal=true\" target=\"_blank\">ONLINE GIVING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/registrations\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"devotions.html\">DAILY DEVOTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jesus.html\">NEED JESUS?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ourapp.html\">OUR APP</a></li>"
+        }
+      ]
+    },
+    "jesus.html": {
+      "settings": {
+        "title": "Jesus Path",
+        "meta_descr": "",
+        "header_custom": "<script src=\"https://js.churchcenter.com/modal/v1\"></script>",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 2
+      },
+      "components": [
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_params": {
+            "blockTitle": "Jesus Path",
+            "HTMLCode": "<noscript><a href=\"http://globalchristiancenter.com//index.php?option=com_content&id=31162\">Article: <b>The Jesus Path</b></a></noscript><script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&itemid=31162&atitle=0\"></script>",
+            "ExtEdit": false,
+            "paddingTop": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "Jesus Path",
+          "HTMLCode": "<noscript><a href=\"http://globalchristiancenter.com//index.php?option=com_content&id=31162\">Article: <b>The Jesus Path</b></a></noscript><script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&itemid=31162&atitle=0\"></script>",
+          "tinyeditor": "",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255);\">\n\t<style>.block {padding-bottom:0px; padding-top:0px;}</style>\t\t\n            \n\n    <div class=\"mbr-section__container mbr-section__container--isolated container\">\n        <div class=\"row block\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-left mbr-section__left col-sm-12\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text tiny\">Jesus Path</h3>\n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg\"><div class=\"tiny\"><noscript>&amp;amp;amp;amp;amp;lt;a href=\"http://globalchristiancenter.com//index.php?option=com_content&amp;amp;amp;amp;amp;amp;id=31162\"&amp;amp;amp;amp;amp;gt;Article: &amp;amp;amp;amp;amp;lt;b&amp;amp;amp;amp;amp;gt;The Jesus Path&amp;amp;amp;amp;amp;lt;/b&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;gt;</noscript>{JS_CODE_0}</div>\n\t\t\t\t\t\t</div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n\t<div></div>\n\t\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&amp;itemid=31162&amp;atitle=0\"></script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "htmlblock-block-q"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-d",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/heart-1400x1123-5-159x128-78.png",
+              "height": 128,
+              "alt": "logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/people/forms/146?open-in-church-center-modal=true\" target=\"_blank\">PRAY FOR ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/groups\" target=\"_blank\">GROUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/giving?open-in-church-center-modal=true\" target=\"_blank\">ONLINE GIVING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/registrations\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"devotions.html\">DAILY DEVOTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jesus.html\">NEED JESUS?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ourapp.html\">OUR APP</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://globalchristiancenter.com/prayed-the-prayer\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">I NEED JESUS</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://globalchristiancenter.com/questions\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">I HAVE QUESTIONS</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"http://globalchristiancenter.com/prayer-request\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">I NEED PRAYER</a>  "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"col-md-8 col-md-offset-2\">\n<noscript>&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=\"http://globalchristiancenter.com//index.php?option=com_content&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;id=31162\"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;Article: &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;b&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;The Jesus Path&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/b&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</noscript>{JS_CODE_0}\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1g",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&itemid=31162&atitle=1\"></script>"
+          ]
+        }
+      ]
+    },
+    "devotions.html": {
+      "settings": {
+        "title": "Daily Devotions",
+        "meta_descr": "",
+        "header_custom": "<script src=\"https://js.churchcenter.com/modal/v1\"></script>",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 3
+      },
+      "components": [
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_params": {
+            "blockTitle": "Daily Devotions",
+            "HTMLCode": "<noscript><a href=\"http://globalchristiancenter.com//index.php?option=com_content&view=category&id=97\">Category: <b>Daily Devotions</b></a></noscript><script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&catid=97&num=1&type=3&ftitle=0&atitle=1&order=pd&more=0\"></script>",
+            "ExtEdit": false,
+            "paddingTop": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "Daily Devotions",
+          "HTMLCode": "<noscript><a href=\"http://globalchristiancenter.com//index.php?option=com_content&view=category&id=97\">Category: <b>Daily Devotions</b></a></noscript><script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&catid=97&num=1&type=3&ftitle=0&atitle=1&order=pd&more=0\"></script>",
+          "tinyeditor": "",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255);\">\n\t<style>.block {padding-bottom:0px; padding-top:0px;}</style>\t\t\n            \n\n    <div class=\"mbr-section__container mbr-section__container--isolated container\">\n        <div class=\"row block\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-left mbr-section__left col-sm-12\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text tiny\">Daily Devotions</h3>\n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg\"><div class=\"tiny\"><noscript>&amp;amp;amp;amp;amp;amp;amp;lt;a href=\"http://globalchristiancenter.com//index.php?option=com_content&amp;amp;amp;amp;amp;amp;amp;amp;view=category&amp;amp;amp;amp;amp;amp;amp;amp;id=97\"&amp;amp;amp;amp;amp;amp;amp;gt;Category: &amp;amp;amp;amp;amp;amp;amp;lt;b&amp;amp;amp;amp;amp;amp;amp;gt;Daily Devotions&amp;amp;amp;amp;amp;amp;amp;lt;/b&amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;gt;</noscript>{JS_CODE_0}</div>\n\t\t\t\t\t\t</div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n\t<div></div>\n\t\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&amp;catid=97&amp;num=1&amp;type=3&amp;ftitle=0&amp;atitle=1&amp;order=pd&amp;more=0\"></script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "htmlblock-block-u"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-s",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/heart-1400x1123-5-159x128-78.png",
+              "height": 128,
+              "alt": "logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/people/forms/146?open-in-church-center-modal=true\" target=\"_blank\">PRAY FOR ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/groups\" target=\"_blank\">GROUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/giving?open-in-church-center-modal=true\" target=\"_blank\">ONLINE GIVING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/registrations\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"devotions.html\">DAILY DEVOTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jesus.html\">NEED JESUS?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ourapp.html\">OUR APP</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "title": "",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1m"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"col-md-8 col-md-offset-2\">\n<noscript>&amp;amp;amp;amp;amp;amp;amp;lt;a href=\"http://globalchristiancenter.com//index.php?option=com_content&amp;amp;amp;amp;amp;amp;amp;amp;view=category&amp;amp;amp;amp;amp;amp;amp;amp;id=97\"&amp;amp;amp;amp;amp;amp;amp;gt;Category: &amp;amp;amp;amp;amp;amp;amp;lt;b&amp;amp;amp;amp;amp;amp;amp;gt;Daily Devotions&amp;amp;amp;amp;amp;amp;amp;lt;/b&amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;gt;</noscript>{JS_CODE_0}\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&catid=97&num=1&type=3&ftitle=1&atitle=1&order=pa&more=0\"></script>"
+          ]
+        }
+      ]
+    },
+    "ourapp.html": {
+      "settings": {
+        "meta_descr": "Church Center app is the fastest way to get information about our church, learn about upcoming events, and donate.",
+        "title": "Our Mobile App",
+        "order": 1,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/square-859x859.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DOWNLOAD OUR APP",
+          "text": "Church Center app is the fastest way to get information about our church, learn about upcoming events, and give to our church.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://itunes.apple.com/us/app/my-church-center/id1357742931?mt=8\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-apple2 mbr-iconfont mbr-iconfont-btn\"></span>Download on App Store</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://play.google.com/store/apps/details?id=com.ministrycentered.churchcenter\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-google-play mbr-iconfont mbr-iconfont-btn\"></span>Download on Google Play</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2j",
+          "_customHTML": "<section class=\"mbr-section mbr-after-navbar\" data-rv-view=\"38\" style=\"background-color: rgb(255, 255, 255); padding-top: 160px; padding-bottom: 120px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              \n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-right content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"57\">DOWNLOAD OUR APP</h3>\n                  <div class=\"lead\">\n\n                    <p class=\"mbr-editable-content\" code-editable-id=\"58\">Church Center app is the fastest way to get information about our church, learn about upcoming events, and give to our church.</p>\n\n                  </div>\n\n                  <div><a class=\"btn btn-danger mbr-editable-button\" href=\"https://itunes.apple.com/us/app/my-church-center/id1357742931?mt=8\" target=\"_blank\" width=\"255\" code-editable-id=\"59\"><span class=\"icon54-v1-apple2 mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;Download on App Store&nbsp;</a>\n                      <p><a class=\"btn btn-info mbr-editable-button\" href=\"https://play.google.com/store/apps/details?id=com.ministrycentered.churchcenter\" target=\"_blank\" width=\"255\" code-editable-id=\"60\"><span class=\"icon54-v1-google-play mbr-iconfont mbr-iconfont-btn\"></span>Download on Google Play</a></p></div>\n              </div>\n\n\n              \n\n\n              <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 50%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/square-859x859.png\"></div>\n              </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_name": "contacts2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "1050 N. Orange St\nGiddings, TX 78942",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>1050 N. Orange St.<br>Giddings, TX &nbsp;78942<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@giddingsag.org<br>\nPhone: (979) 542-2904",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.youtube.com/user/PastorPatSongs\" target=\"_blank\" class=\"text-white\">Pastor's YouTube Channel</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.facebook.com/First-Assembly-of-God-637600716319826/?fref=ts&amp;ref=br_tf\" target=\"_blank\" class=\"text-white\">Our Facebook Page</a></li></ul>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(184, 49, 47); padding-top: 90px; padding-bottom: 90px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"32\"><strong>Address</strong><br>1050 N. Orange St.<br>Giddings, TX &nbsp;78942<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@giddingsag.org<br>\nPhone: (979) 542-2904</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"33\"><strong>Links</strong><ul><li><a href=\"https://www.youtube.com/user/PastorPatSongs\" target=\"_blank\" class=\"text-white\">Pastor's YouTube Channel</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.facebook.com/First-Assembly-of-God-637600716319826/?fref=ts&amp;ref=br_tf\" target=\"_blank\" class=\"text-white\">Our Facebook Page</a></li><li><div class=\"fb-send-to-messenger\" messenger_app_id=\"1678638095724206\" page_id=\"637600716319826\" data-ref=\"b64:bWFpbndlYnNpdGU=\" color=\"white\" size=\"xlarge\"> </div></li></ul>\n           \n            </div>\n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\">\n                    <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.653255046473!2d-96.92964078526757!3d30.189897518642383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864465641f2641b5%3A0x434a0b38d1fec777!2s1050+N+Orange+St%2C+Giddings%2C+TX+78942!5e0!3m2!1sen!2sus!4v1473897650247\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n                \n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts2-2g"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2016 Giddings First Assembly of God",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"41\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container text-xs-center\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"39\">© 2018 Giddings First Assembly of God</p>        \n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true,
+          "_anchor": "footer1-2h"
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/heart-1400x1123-5-159x128-78.png",
+              "height": 128,
+              "alt": "logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/people/forms/146?open-in-church-center-modal=true\" target=\"_blank\">PRAY FOR ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/groups\" target=\"_blank\">GROUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/giving?open-in-church-center-modal=true\" target=\"_blank\">ONLINE GIVING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/registrations\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"devotions.html\">DAILY DEVOTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jesus.html\">NEED JESUS?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ourapp.html\">OUR APP</a></li>",
+          "_anchor": "ext_menu-2i"
+        }
+      ]
+    },
+    "shop.html": {
+      "settings": {
+        "title": "Shop",
+        "meta_descr": "",
+        "header_custom": "<script src=\"https://js.churchcenter.com/modal/v1\"></script>",
+        "footer_custom": " <script> window.fbMessengerPlugins = window.fbMessengerPlugins || { init : function() { FB.init({ appId: \"1678638095724206\", xfbml: true, version: \"v2.6\" }); }, callable : [] }; window.fbAsyncInit = window.fbAsyncInit || function() { window.fbMessengerPlugins.callable.forEach( function( item ) { item(); } ); window.fbMessengerPlugins.init(); }; setTimeout( function() { (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return; } js = d.createElement(s); js.id = id; js.src = \"//connect.facebook.net/en_US/sdk.js\"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); }, 0); </script> ",
+        "html_before": "",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-31"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text1": "<p>This will be removed</p>",
+          "text2": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-32"
+        },
+        {
+          "_name": "contacts2",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "1050 N. Orange St\nGiddings, TX 78942",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Failed to load the library"
+            }
+          },
+          "text1": "<strong>Address</strong><br>1050 N. Orange St.<br>Giddings, TX &nbsp;78942<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@giddingsag.org<br>\nPhone: (979) 542-2904",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.youtube.com/user/PastorPatSongs\" target=\"_blank\" class=\"text-white\">Pastor's YouTube Channel</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.facebook.com/First-Assembly-of-God-637600716319826/?fref=ts&amp;ref=br_tf\" target=\"_blank\" class=\"text-white\">Our Facebook Page</a></li></ul>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding mbr-footer footer2\" style=\"background-color: rgb(184, 49, 47); padding-top: 90px; padding-bottom: 90px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-footer-content col-xs-12 col-md-3\">\n                <p class=\"mbr-editable-content\" code-editable-id=\"64\"><strong>Address</strong><br>1050 N. Orange St.<br>Giddings, TX &nbsp;78942<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@giddingsag.org<br>\nPhone: (979) 542-2904</p>\n            </div>\n            <div class=\"mbr-footer-content col-xs-12 col-md-3 mbr-editable-content\" code-editable-id=\"65\"><strong>Links</strong><ul><li><a href=\"https://www.youtube.com/user/PastorPatSongs\" target=\"_blank\" class=\"text-white\">Pastor's YouTube Channel</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"https://www.facebook.com/First-Assembly-of-God-637600716319826/?fref=ts&amp;ref=br_tf\" target=\"_blank\" class=\"text-white\">Our Facebook Page</a></li><li><div class=\"fb-send-to-messenger\" messenger_app_id=\"1678638095724206\" page_id=\"637600716319826\" data-ref=\"b64:bWFpbndlYnNpdGU=\" color=\"white\" size=\"xlarge\"> </div></li></ul>\n           \n            </div>\n            <div class=\"col-xs-12 col-md-6\">\n                <div class=\"mbr-map\">\n                    <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3448.653255046473!2d-96.92964078526757!3d30.189897518642383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864465641f2641b5%3A0x434a0b38d1fec777!2s1050+N+Orange+St%2C+Giddings%2C+TX+78942!5e0!3m2!1sen!2sus!4v1473897650247\" width=\"100%\" height=\"300\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe></div>\n                \n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "STRONG {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "contacts2-0",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-0",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© 2016 Giddings First Assembly of God",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"41\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container text-xs-center\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"39\">© 2018 Giddings First Assembly of God</p>        \n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/heart-1400x1123-5-159x128-78.png",
+              "height": 128,
+              "alt": "logo",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/people/forms/146?open-in-church-center-modal=true\" target=\"_blank\">PRAY FOR ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/groups\" target=\"_blank\">GROUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/giving?open-in-church-center-modal=true\" target=\"_blank\">ONLINE GIVING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/registrations\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"devotions.html\">DAILY DEVOTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jesus.html\">NEED JESUS?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ourapp.html\">OUR APP</a></li>"
+        }
+      ]
+    }
+  }
+}
