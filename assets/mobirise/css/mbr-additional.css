@@ -904,11 +904,21 @@ section.form .container {
 #ext_menu-s .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
-.cid-t7IyoC2Kre {
+#custom-html-1n {
+  /* Type valid CSS here */
+}
+#custom-html-1n .my-image {
+  width: 100%;
+}
+#header3-38 .mbr-section-title,
+#header3-38 .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-t8hN1C6I0K {
   text-align: center;
   overflow: hidden;
 }
-.cid-t7IyoC2Kre .custom-widget svg {
+.cid-t8hN1C6I0K .custom-widget svg {
   width: 65px;
   height: 65px;
   color: #777;

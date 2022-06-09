@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "devotions.html",
     "versionFirst": "3.6.1",
     "versionPublish": "5.6.8",
     "name": "Giddings AG New",
@@ -35,7 +35,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicons-16x13-75-128x104-71.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 113,
+    "uniqCompNum": 114,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -241,7 +241,7 @@
             }
           },
           "title": "Summer Service Times",
-          "text": "<b>Sunday Morning Worship</b> - 10:30am<br><br><b>Friday Night Celebrate Recovery</b> - 7:00pm<br><br>We are currently on sabbatical for our Wednesday night classes. We will resume our Men, Women, Youth and children mid-week events on Wednesday, August 14th.<br><br>",
+          "text": "<b>Sunday Morning Worship</b> - 10:30am<br><br><b>Wednesday Night Celebrate Recovery</b> - 7:00pm<br><br>We are currently on sabbatical for our Wednesday night classes. We will resume our Men, Women, Youth and children mid-week events on Wednesday, August 24th.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -347,30 +347,6 @@
             "bgColor": "#3d8eb9"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://giddingsag.churchcenteronline.com/groups/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check out our Community Groups</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://giddingsag.churchcenteronline.com/registrations\" data-toolbar=\"-mbrBtnMove\">Check out Upcoming Events</a>  "
-        },
-        {
-          "_name": "video2",
-          "_anchor": "video2-0",
-          "_params": {
-            "showText": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/watch?v=_bWiDJSJuIA",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_inherit": "msg-box8",
@@ -799,39 +775,6 @@
       },
       "components": [
         {
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_params": {
-            "blockTitle": "Daily Devotions",
-            "HTMLCode": "<noscript><a href=\"http://globalchristiancenter.com//index.php?option=com_content&view=category&id=97\">Category: <b>Daily Devotions</b></a></noscript><script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&catid=97&num=1&type=3&ftitle=0&atitle=1&order=pd&more=0\"></script>",
-            "ExtEdit": false,
-            "paddingTop": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "Daily Devotions",
-          "HTMLCode": "<noscript><a href=\"http://globalchristiancenter.com//index.php?option=com_content&view=category&id=97\">Category: <b>Daily Devotions</b></a></noscript><script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&catid=97&num=1&type=3&ftitle=0&atitle=1&order=pd&more=0\"></script>",
-          "tinyeditor": "",
-          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-section--fixed-size mbr-after-navbar\" style=\"background-color: rgb(255, 255, 255);\">\n\t<style>.block {padding-bottom:0px; padding-top:0px;}</style>\t\t\n            \n\n    <div class=\"mbr-section__container mbr-section__container--isolated container\">\n        <div class=\"row block\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-left mbr-section__left col-sm-12\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text tiny\">Daily Devotions</h3>\n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg\"><div class=\"tiny\"><noscript>&amp;amp;amp;amp;amp;amp;amp;lt;a href=\"http://globalchristiancenter.com//index.php?option=com_content&amp;amp;amp;amp;amp;amp;amp;amp;view=category&amp;amp;amp;amp;amp;amp;amp;amp;id=97\"&amp;amp;amp;amp;amp;amp;amp;gt;Category: &amp;amp;amp;amp;amp;amp;amp;lt;b&amp;amp;amp;amp;amp;amp;amp;gt;Daily Devotions&amp;amp;amp;amp;amp;amp;amp;lt;/b&amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;gt;</noscript>{JS_CODE_0}</div>\n\t\t\t\t\t\t</div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n\n\t<div></div>\n\t\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&amp;catid=97&amp;num=1&amp;type=3&amp;ftitle=0&amp;atitle=1&amp;order=pd&amp;more=0\"></script>"
-          ],
-          "_customCSS": "",
-          "_customTemplate": true,
-          "_anchor": "htmlblock-block-u"
-        },
-        {
           "_inherit": "menu",
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -916,26 +859,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/people/forms/146?open-in-church-center-modal=true\" target=\"_blank\">PRAY FOR ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/groups\" target=\"_blank\">GROUPS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenter.com/giving?open-in-church-center-modal=true\" target=\"_blank\">ONLINE GIVING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://giddingsag.churchcenteronline.com/registrations\" target=\"_blank\">EVENTS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"devotions.html\">DAILY DEVOTIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"jesus.html\">NEED JESUS?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ourapp.html\">OUR APP</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgColor": "#fff"
-          },
-          "title": "",
-          "meta": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1m"
-        },
-        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<div class=\"col-md-8 col-md-offset-2\">\n<noscript>&amp;amp;amp;amp;amp;amp;amp;lt;a href=\"http://globalchristiancenter.com//index.php?option=com_content&amp;amp;amp;amp;amp;amp;amp;amp;view=category&amp;amp;amp;amp;amp;amp;amp;amp;id=97\"&amp;amp;amp;amp;amp;amp;amp;gt;Category: &amp;amp;amp;amp;amp;amp;amp;lt;b&amp;amp;amp;amp;amp;amp;amp;gt;Daily Devotions&amp;amp;amp;amp;amp;amp;amp;lt;/b&amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;gt;</noscript>{JS_CODE_0}\n</div>",
@@ -950,6 +873,34 @@
           "_JSplaceholders": [
             "<script language=\"javascript\" type=\"text/javascript\" src=\"http://globalchristiancenter.com//media/feed.php?userid=1058&catid=97&num=1&type=3&ftitle=1&atitle=1&order=pa&more=0\"></script>"
           ]
+        },
+        {
+          "alias": "eb-youtube-feed",
+          "_isSecondary": true,
+          "_styles": {
+            "text-align": "center",
+            "overflow": "hidden",
+            ".custom-widget svg": {
+              "width": "65px",
+              "height": "65px",
+              "color": "#777",
+              "fill": "#777",
+              "margin-top": "2rem",
+              "margin-bottom": "3rem"
+            }
+          },
+          "_name": "eb-youtube-feed",
+          "_customHTML": "<section class=\"eb-youtube-feed\" group=\"Widget\"><script src=\"https://s.electricblaze.com/widget.js\" defer=\"\"></script>\n<div class=\"electricblaze-id-2Uhx5oV\"></div></section>",
+          "_cid": "t8hMpaHd0U",
+          "_anchor": "eb-youtube-feed-35",
+          "safe": {
+            "id": 1511,
+            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx5oV\"></div>"
+          },
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         }
       ]
     },

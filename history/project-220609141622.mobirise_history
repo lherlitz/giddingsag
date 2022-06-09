@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.6.1",
-    "versionPublish": "4.11.6",
+    "versionPublish": "5.6.8",
     "name": "Giddings AG New",
     "theme": {
       "name": "mobirise3",
@@ -42,7 +42,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "publishType": "local",
-    "publishPath": "file:///Users/lucasherlitz/Documents/GitHub/giddingsag"
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
