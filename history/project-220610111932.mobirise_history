@@ -248,7 +248,7 @@
             }
           },
           "title": "Summer Service Times",
-          "text": "<b>Sunday Morning Worship</b> - 10:30am<br><br><b>Wednesday Night Celebrate Recovery</b> - 7:00pm<br><br>Wednesday nights through the summer, we are meeting as a family in the fellowship Hall from seven to 8:30 PM. Bring a snack and your whole family!<br><br>",
+          "text": "<b>Sunday Morning Worship</b> - 10:30am<br><br><b>Wednesday Night Celebrate Recovery</b> - 7:00pm<br><br>We are currently on sabbatical for our Wednesday night classes. We will resume our Men, Women, Youth and children mid-week events on Wednesday, August 24th.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -330,7 +330,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/ZSRaBgFVkUM",
+              "src": "https://www.youtube.com/watch?v=vUyglypigSQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -449,7 +449,7 @@
           },
           "title": "View our Sermon Libray",
           "text": "We stream our messages live each week and they are available on-demand.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCekmb6U5sYhxB8S7jTrSA7A/videos?view=2&amp;live_view=503\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO LIBRARY</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://vimeo.com/giddingsag\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIDEO LIBRARY</a>"
         },
         {
           "_name": "contacts2",
@@ -501,7 +501,7 @@
             "overlayOpacity": 0.8
           },
           "text": "© 2016 Giddings First Assembly of God",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"41\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container text-xs-center\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"39\">© 2022 Giddings First Assembly of God</p>        \n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"41\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container text-xs-center\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"39\">© 2019 Giddings First Assembly of God</p>        \n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
